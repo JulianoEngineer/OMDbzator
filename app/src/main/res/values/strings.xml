@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OMDbzator</string>
+    <string name="label_home" translatable="true">Search the movie you want with OMDbzator.</string>
+</resources>
